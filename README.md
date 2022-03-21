@@ -7,7 +7,7 @@
 <p>📝 Experiência</p>
 <ul>
    <li>Lógica de Programação</li>
-   <p>Banco de Dados SQL Server</p>
+   <li>Banco de Dados SQL Server</li>
 </ul>
 </ul>
 <p>📚 Planejamentos Futuros</p>
