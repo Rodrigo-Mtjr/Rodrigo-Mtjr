@@ -4,22 +4,15 @@
 
 <ul>
   <li>Graduado em Administração de Empresas - Faculdade da Alta Paulista - FADAP FAP.</li>
-  <li>Cursando Tecnólogo de Análise e Desenvolvimento de Sistemas - UNOPAR Marilia.</li>
+  <li>Graduado em Tecnólogo de Análise e Desenvolvimento de Sistemas - UNOPAR Marilia.</li>
 </ul>
 <p>📝 Experiência</p>
 <ul>
-   <li>Lógica de Programação</li>
-   <li>Linguagem de Programação C</li>
-  <li>Linguagem de Programação C++</li>
+  <li>HTML5 e CSS3</li>
   <li>Linguagem de Programação C#</li>
   <li>Banco de Dados SQL Server</li>
+  <li>Git e GitHub</li>
 </ul>
 </ul>
-<p>📚 Estudando</p>
-<ul>
-  <li>Python</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>Bootstrap</li>
- </ul>
+
 
